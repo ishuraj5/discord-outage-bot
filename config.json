@@ -1,0 +1,7 @@
+  
+{
+  "bot_token": "token_here",
+  "website_url": "website_url",
+  "status_channel_id": "voice_channel_id",
+  "guild_id": "guild_id"
+}
